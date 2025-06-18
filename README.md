@@ -10,3 +10,6 @@ Supplementary material
 - Dataset expanded (Dataset_feture+CN_exp.csv)
 - Example of input compounds for perdition (Compounds_input_example.csv).
 - Python library required from literature (data_util.py).
+
+Large files here:
+https://drive.google.com/drive/folders/1Ka6Zbzulu7nU48BBzvhZr1QBGQJykRFy?usp=sharing
